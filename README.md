@@ -19,7 +19,7 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 <img width="1918" height="1198" alt="Print CSS 1" src="https://github.com/user-attachments/assets/7c66e29a-9ed2-43a6-9e49-498f3dcb003e" />
 <img width="1918" height="1198" alt="Print CSS 2" src="https://github.com/user-attachments/assets/299904a5-fe6f-4ddb-8163-7b836de06368" />
 <img width="1903" height="1198" alt="Print CSS 3" src="https://github.com/user-attachments/assets/93215e7f-ebc6-4c90-b8e3-54e5eaf532a5" />
-<img width="1918" height="1198" alt="Ptint CSS 4" src="https://github.com/user-attachments/assets/fd15299e-c4cc-4f9d-9cc0-130668fa733c" />
+<img width="1918" height="1198" alt="Print CSS 4" src="https://github.com/user-attachments/assets/fd15299e-c4cc-4f9d-9cc0-130668fa733c" />
 
 ## Print da versão responsiva com Bootstrap
 <img width="1913" height="1198" alt="Currículo - print 1" src="https://github.com/user-attachments/assets/04878d3b-5739-4b66-b205-c43dae4bf517" />
